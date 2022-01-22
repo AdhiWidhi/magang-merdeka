@@ -1,7 +1,7 @@
 # magang-merdeka
 
 Tampilan Awal
-![Screenshot_1](https://user-images.githubusercontent.com/79301622/150631024-e8597ca8-583b-4442-a1ff-e941766eaa3a.jpg)
+![Screenshot_6](https://user-images.githubusercontent.com/79301622/150631085-f9c0aa0e-4701-4d01-befe-b7856d774975.jpg)
 Tampilan Add Data
 ![Screenshot_2](https://user-images.githubusercontent.com/79301622/150631029-99fa522d-76b9-4531-b74c-76e2b19acb45.jpg)
 Tampilan Edit Data
